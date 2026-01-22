@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/zaoqu-liu/zaoqu-liu.r-universe.dev
 	branch = HEAD
+[submodule "scMetaLink"]
+	path = scMetaLink
+	url = https://github.com/Zaoqu-Liu/scMetaLink
