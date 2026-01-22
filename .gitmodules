@@ -5,6 +5,12 @@
 [submodule "BioTransition"]
 	path = BioTransition
 	url = https://github.com/SolvingLab/BioTransition
+[submodule "llmflow"]
+	path = llmflow
+	url = https://github.com/Zaoqu-Liu/llmflow
+[submodule "llmhelper"]
+	path = llmhelper
+	url = https://github.com/Zaoqu-Liu/llmhelper
 [submodule "scMetaLink"]
 	path = scMetaLink
 	url = https://github.com/Zaoqu-Liu/scMetaLink
