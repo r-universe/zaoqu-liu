@@ -5,6 +5,13 @@
 [submodule "BioTransition"]
 	path = BioTransition
 	url = https://github.com/SolvingLab/BioTransition
+[submodule "SafeMapper"]
+	path = SafeMapper
+	url = https://github.com/Zaoqu-Liu/SafeMapper
+	branch = main
+[submodule "ggforge"]
+	path = ggforge
+	url = https://github.com/Zaoqu-Liu/ggforge
 [submodule "llmflow"]
 	path = llmflow
 	url = https://github.com/Zaoqu-Liu/llmflow
