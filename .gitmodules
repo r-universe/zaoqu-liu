@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/zaoqu-liu/zaoqu-liu.r-universe.dev
 	branch = HEAD
+[submodule "BioTransition"]
+	path = BioTransition
+	url = https://github.com/SolvingLab/BioTransition
 [submodule "scMetaLink"]
 	path = scMetaLink
 	url = https://github.com/Zaoqu-Liu/scMetaLink
