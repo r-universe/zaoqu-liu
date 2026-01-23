@@ -17,6 +17,10 @@
 	path = MultiK
 	url = https://github.com/Zaoqu-Liu/MultiK
 	branch = main
+[submodule "NNLM"]
+	path = NNLM
+	url = https://github.com/linxihui/NNLM
+	registered = false
 [submodule "OmnipathR"]
 	path = OmnipathR
 	url = https://github.com/Zaoqu-Liu/OmnipathR
