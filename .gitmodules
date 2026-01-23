@@ -5,12 +5,20 @@
 [submodule "BioTransition"]
 	path = BioTransition
 	url = https://github.com/SolvingLab/BioTransition
+[submodule "SCENT"]
+	path = SCENT
+	url = https://github.com/Zaoqu-Liu/SCENT
+	branch = main
 [submodule "SVG"]
 	path = SVG
 	url = https://github.com/Zaoqu-Liu/SVG
 [submodule "SafeMapper"]
 	path = SafeMapper
 	url = https://github.com/Zaoqu-Liu/SafeMapper
+	branch = main
+[submodule "SecAct"]
+	path = SecAct
+	url = https://github.com/Zaoqu-Liu/SecAct
 	branch = main
 [submodule "ggforge"]
 	path = ggforge
@@ -21,6 +29,10 @@
 [submodule "llmhelper"]
 	path = llmhelper
 	url = https://github.com/Zaoqu-Liu/llmhelper
+[submodule "scGate"]
+	path = scGate
+	url = https://github.com/Zaoqu-Liu/scGate
+	branch = main
 [submodule "scMetaLink"]
 	path = scMetaLink
 	url = https://github.com/Zaoqu-Liu/scMetaLink
