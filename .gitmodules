@@ -44,6 +44,7 @@
 	path = SecAct
 	url = https://github.com/Zaoqu-Liu/SecAct
 	branch = main
+	subdir = 
 [submodule "SpaTalk"]
 	path = SpaTalk
 	url = https://github.com/Zaoqu-Liu/SpaTalk
