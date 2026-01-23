@@ -17,6 +17,10 @@
 	path = MultiK
 	url = https://github.com/Zaoqu-Liu/MultiK
 	branch = main
+[submodule "OmnipathR"]
+	path = OmnipathR
+	url = https://github.com/Zaoqu-Liu/OmnipathR
+	branch = master
 [submodule "SCENT"]
 	path = SCENT
 	url = https://github.com/Zaoqu-Liu/SCENT
@@ -46,6 +50,10 @@
 [submodule "iTALK"]
 	path = iTALK
 	url = https://github.com/Zaoqu-Liu/iTALK
+	branch = main
+[submodule "liana"]
+	path = liana
+	url = https://github.com/Zaoqu-Liu/liana
 	branch = main
 [submodule "llmflow"]
 	path = llmflow
