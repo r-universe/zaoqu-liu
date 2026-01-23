@@ -5,6 +5,9 @@
 [submodule "BioTransition"]
 	path = BioTransition
 	url = https://github.com/SolvingLab/BioTransition
+[submodule "SVG"]
+	path = SVG
+	url = https://github.com/Zaoqu-Liu/SVG
 [submodule "SafeMapper"]
 	path = SafeMapper
 	url = https://github.com/Zaoqu-Liu/SafeMapper
