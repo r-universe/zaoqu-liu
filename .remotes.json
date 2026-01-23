@@ -1,8 +1,44 @@
 [
   {
+    "package": "CellChat",
+    "url": "https://github.com/sqjin/CellChat",
+    "via": ["liana"],
+    "from": "liana"
+  },
+  {
+    "package": "Connectome",
+    "url": "https://github.com/Zaoqu-Liu/Connectome",
+    "via": ["liana"],
+    "from": "liana"
+  },
+  {
     "package": "NNLM",
     "url": "https://github.com/linxihui/NNLM",
     "via": ["SpaTalk"],
     "from": "SpaTalk"
+  },
+  {
+    "package": "OmnipathR",
+    "url": "https://github.com/saezlab/OmnipathR",
+    "via": ["liana"],
+    "from": "liana"
+  },
+  {
+    "package": "basilisk",
+    "url": "https://github.com/LTLA/basilisk",
+    "via": ["liana"],
+    "from": "liana"
+  },
+  {
+    "package": "basilisk.utils",
+    "url": "https://github.com/LTLA/basilisk.utils",
+    "via": ["liana"],
+    "from": "liana"
+  },
+  {
+    "package": "decoupleR",
+    "url": "https://github.com/saezlab/decoupleR",
+    "via": ["liana"],
+    "from": "liana"
   }
 ]

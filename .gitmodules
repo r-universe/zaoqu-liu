@@ -5,6 +5,10 @@
 [submodule "BioTransition"]
 	path = BioTransition
 	url = https://github.com/SolvingLab/BioTransition
+[submodule "CellChat"]
+	path = CellChat
+	url = https://github.com/sqjin/CellChat
+	registered = false
 [submodule "Connectome"]
 	path = Connectome
 	url = https://github.com/Zaoqu-Liu/Connectome
@@ -44,6 +48,18 @@
 	path = SpaTalk
 	url = https://github.com/Zaoqu-Liu/SpaTalk
 	branch = main
+[submodule "basilisk"]
+	path = basilisk
+	url = https://github.com/LTLA/basilisk
+	registered = false
+[submodule "basilisk.utils"]
+	path = basilisk.utils
+	url = https://github.com/LTLA/basilisk.utils
+	registered = false
+[submodule "decoupleR"]
+	path = decoupleR
+	url = https://github.com/saezlab/decoupleR
+	registered = false
 [submodule "fastCNV"]
 	path = fastCNV
 	url = https://github.com/Zaoqu-Liu/fastCNV
