@@ -115,3 +115,7 @@
 [submodule "scTenifoldKnk"]
 	path = scTenifoldKnk
 	url = https://github.com/Zaoqu-Liu/scTenifoldKnk
+[submodule "tradeSeq"]
+	path = tradeSeq
+	url = https://github.com/Zaoqu-Liu/tradeSeq
+	branch = main
