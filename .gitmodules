@@ -33,6 +33,10 @@
 	path = SCENT
 	url = https://github.com/Zaoqu-Liu/SCENT
 	branch = main
+[submodule "SCEVAN"]
+	path = SCEVAN
+	url = https://github.com/Zaoqu-Liu/SCEVAN
+	branch = main
 [submodule "SVG"]
 	path = SVG
 	url = https://github.com/Zaoqu-Liu/SVG
@@ -82,6 +86,18 @@
 [submodule "llmhelper"]
 	path = llmhelper
 	url = https://github.com/Zaoqu-Liu/llmhelper
+[submodule "multinichenetr"]
+	path = multinichenetr
+	url = https://github.com/Zaoqu-Liu/multinichenetr
+	branch = main
+[submodule "nichenetr"]
+	path = nichenetr
+	url = https://github.com/Zaoqu-Liu/nichenetr
+	branch = master
+[submodule "recall"]
+	path = recall
+	url = https://github.com/Zaoqu-Liu/recall
+	branch = main
 [submodule "scGate"]
 	path = scGate
 	url = https://github.com/Zaoqu-Liu/scGate
