@@ -40,5 +40,11 @@
     "url": "https://github.com/saezlab/decoupleR",
     "via": ["liana"],
     "from": "liana"
+  },
+  {
+    "package": "nichenetr",
+    "url": "https://github.com/saeyslab/nichenetr",
+    "via": ["multinichenetr"],
+    "from": "multinichenetr"
   }
 ]
