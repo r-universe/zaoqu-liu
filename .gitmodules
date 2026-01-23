@@ -5,6 +5,18 @@
 [submodule "BioTransition"]
 	path = BioTransition
 	url = https://github.com/SolvingLab/BioTransition
+[submodule "Connectome"]
+	path = Connectome
+	url = https://github.com/Zaoqu-Liu/Connectome
+	branch = main
+[submodule "METAFLUX"]
+	path = METAFLUX
+	url = https://github.com/Zaoqu-Liu/METAFlux
+	branch = main
+[submodule "MultiK"]
+	path = MultiK
+	url = https://github.com/Zaoqu-Liu/MultiK
+	branch = main
 [submodule "SCENT"]
 	path = SCENT
 	url = https://github.com/Zaoqu-Liu/SCENT
@@ -20,9 +32,21 @@
 	path = SecAct
 	url = https://github.com/Zaoqu-Liu/SecAct
 	branch = main
+[submodule "SpaTalk"]
+	path = SpaTalk
+	url = https://github.com/Zaoqu-Liu/SpaTalk
+	branch = main
+[submodule "fastCNV"]
+	path = fastCNV
+	url = https://github.com/Zaoqu-Liu/fastCNV
+	branch = main
 [submodule "ggforge"]
 	path = ggforge
 	url = https://github.com/Zaoqu-Liu/ggforge
+[submodule "iTALK"]
+	path = iTALK
+	url = https://github.com/Zaoqu-Liu/iTALK
+	branch = main
 [submodule "llmflow"]
 	path = llmflow
 	url = https://github.com/Zaoqu-Liu/llmflow
