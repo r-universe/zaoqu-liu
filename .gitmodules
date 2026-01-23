@@ -24,3 +24,9 @@
 [submodule "scMetaLink"]
 	path = scMetaLink
 	url = https://github.com/Zaoqu-Liu/scMetaLink
+[submodule "scPAS"]
+	path = scPAS
+	url = https://github.com/Zaoqu-Liu/scPAS
+[submodule "scTenifoldKnk"]
+	path = scTenifoldKnk
+	url = https://github.com/Zaoqu-Liu/scTenifoldKnk
