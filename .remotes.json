@@ -46,5 +46,11 @@
     "url": "https://github.com/saeyslab/nichenetr",
     "via": ["multinichenetr"],
     "from": "multinichenetr"
+  },
+  {
+    "package": "scDesign3",
+    "url": "https://github.com/SONGDONGYUAN1994/scDesign3",
+    "via": ["recall"],
+    "from": "recall"
   }
 ]

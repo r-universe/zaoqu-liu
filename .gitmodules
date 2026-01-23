@@ -98,6 +98,10 @@
 	path = recall
 	url = https://github.com/Zaoqu-Liu/recall
 	branch = main
+[submodule "scDesign3"]
+	path = scDesign3
+	url = https://github.com/SONGDONGYUAN1994/scDesign3
+	registered = false
 [submodule "scGate"]
 	path = scGate
 	url = https://github.com/Zaoqu-Liu/scGate
