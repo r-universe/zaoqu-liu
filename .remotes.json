@@ -52,11 +52,5 @@
     "url": "https://github.com/SONGDONGYUAN1994/scDesign3",
     "via": ["recall"],
     "from": "recall"
-  },
-  {
-    "package": "yaGST",
-    "url": "https://github.com/miccec/yaGST",
-    "via": ["SCEVAN"],
-    "from": "SCEVAN"
   }
 ]
