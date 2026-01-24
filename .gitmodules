@@ -119,3 +119,7 @@
 	path = tradeSeq
 	url = https://github.com/Zaoqu-Liu/tradeSeq
 	branch = main
+[submodule "yaGST"]
+	path = yaGST
+	url = https://github.com/miccec/yaGST
+	branch = master
