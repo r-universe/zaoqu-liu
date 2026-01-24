@@ -72,6 +72,10 @@
 [submodule "ggforge"]
 	path = ggforge
 	url = https://github.com/Zaoqu-Liu/ggforge
+[submodule "hdWGCNA"]
+	path = hdWGCNA
+	url = https://github.com/Zaoqu-Liu/hdWGCNA
+	branch = main
 [submodule "iTALK"]
 	path = iTALK
 	url = https://github.com/Zaoqu-Liu/iTALK
@@ -112,6 +116,10 @@
 [submodule "scPAS"]
 	path = scPAS
 	url = https://github.com/Zaoqu-Liu/scPAS
+[submodule "scPharm"]
+	path = scPharm
+	url = https://github.com/Zaoqu-Liu/scPharm
+	branch = main
 [submodule "scTenifoldKnk"]
 	path = scTenifoldKnk
 	url = https://github.com/Zaoqu-Liu/scTenifoldKnk
