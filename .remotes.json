@@ -43,7 +43,7 @@
   },
   {
     "package": "nichenetr",
-    "url": "https://github.com/saeyslab/nichenetr",
+    "url": "https://github.com/Zaoqu-Liu/nichenetr",
     "via": ["multinichenetr"],
     "from": "multinichenetr"
   },
