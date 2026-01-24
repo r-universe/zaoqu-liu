@@ -5,13 +5,25 @@
 [submodule "BioTransition"]
 	path = BioTransition
 	url = https://github.com/SolvingLab/BioTransition
+[submodule "COMMOTR"]
+	path = COMMOTR
+	url = https://github.com/Zaoqu-Liu/COMMOTR
+	branch = main
 [submodule "CellChat"]
 	path = CellChat
 	url = https://github.com/sqjin/CellChat
 	registered = false
+[submodule "CellOracleR"]
+	path = CellOracleR
+	url = https://github.com/Zaoqu-Liu/CellOracleR
+	branch = main
 [submodule "Connectome"]
 	path = Connectome
 	url = https://github.com/Zaoqu-Liu/Connectome
+	branch = main
+[submodule "CytoSPACER"]
+	path = CytoSPACER
+	url = https://github.com/Zaoqu-Liu/CytoSPACER
 	branch = main
 [submodule "METAFLUX"]
 	path = METAFLUX
@@ -37,6 +49,10 @@
 	path = SCEVAN
 	url = https://github.com/Zaoqu-Liu/SCEVAN
 	branch = main
+[submodule "STRIDER"]
+	path = STRIDER
+	url = https://github.com/Zaoqu-Liu/STRIDER
+	branch = main
 [submodule "SVG"]
 	path = SVG
 	url = https://github.com/Zaoqu-Liu/SVG
@@ -49,6 +65,10 @@
 	url = https://github.com/Zaoqu-Liu/SecAct
 	branch = main
 	subdir = 
+[submodule "SpaGER"]
+	path = SpaGER
+	url = https://github.com/Zaoqu-Liu/SpaGER
+	branch = main
 [submodule "SpaTalk"]
 	path = SpaTalk
 	url = https://github.com/Zaoqu-Liu/SpaTalk
