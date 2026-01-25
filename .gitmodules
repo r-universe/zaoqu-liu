@@ -13,6 +13,10 @@
 	path = CellChat
 	url = https://github.com/sqjin/CellChat
 	registered = false
+[submodule "CellODE"]
+	path = CellODE
+	url = https://github.com/Zaoqu-Liu/CellODE
+	branch = main
 [submodule "CellOracleR"]
 	path = CellOracleR
 	url = https://github.com/Zaoqu-Liu/CellOracleR
@@ -24,6 +28,14 @@
 [submodule "CytoSPACER"]
 	path = CytoSPACER
 	url = https://github.com/Zaoqu-Liu/CytoSPACER
+	branch = main
+[submodule "FastCCCR"]
+	path = FastCCCR
+	url = https://github.com/Zaoqu-Liu/FastCCCR
+	branch = main
+[submodule "MAGICR"]
+	path = MAGICR
+	url = https://github.com/Zaoqu-Liu/MAGICR
 	branch = main
 [submodule "METAFLUX"]
 	path = METAFLUX
@@ -139,6 +151,10 @@
 [submodule "scTenifoldKnk"]
 	path = scTenifoldKnk
 	url = https://github.com/Zaoqu-Liu/scTenifoldKnk
+[submodule "scVeloR"]
+	path = scVeloR
+	url = https://github.com/Zaoqu-Liu/scVeloR
+	branch = main
 [submodule "scaper"]
 	path = scaper
 	url = https://github.com/Zaoqu-Liu/scaper
