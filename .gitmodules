@@ -73,6 +73,10 @@
 	path = SpaTalk
 	url = https://github.com/Zaoqu-Liu/SpaTalk
 	branch = main
+[submodule "darwin"]
+	path = darwin
+	url = https://github.com/Zaoqu-Liu/darwin
+	branch = main
 [submodule "decoupleR"]
 	path = decoupleR
 	url = https://github.com/saezlab/decoupleR
