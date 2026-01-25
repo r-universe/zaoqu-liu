@@ -73,14 +73,6 @@
 	path = SpaTalk
 	url = https://github.com/Zaoqu-Liu/SpaTalk
 	branch = main
-[submodule "basilisk"]
-	path = basilisk
-	url = https://github.com/LTLA/basilisk
-	registered = false
-[submodule "basilisk.utils"]
-	path = basilisk.utils
-	url = https://github.com/LTLA/basilisk.utils
-	registered = false
 [submodule "decoupleR"]
 	path = decoupleR
 	url = https://github.com/saezlab/decoupleR

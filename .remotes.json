@@ -24,18 +24,6 @@
     "from": "liana"
   },
   {
-    "package": "basilisk",
-    "url": "https://github.com/LTLA/basilisk",
-    "via": ["liana"],
-    "from": "liana"
-  },
-  {
-    "package": "basilisk.utils",
-    "url": "https://github.com/LTLA/basilisk.utils",
-    "via": ["liana"],
-    "from": "liana"
-  },
-  {
     "package": "decoupleR",
     "url": "https://github.com/saezlab/decoupleR",
     "via": ["liana"],
