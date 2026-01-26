@@ -21,6 +21,10 @@
 	path = CellOracleR
 	url = https://github.com/Zaoqu-Liu/CellOracleR
 	branch = main
+[submodule "CellProgramMapper"]
+	path = CellProgramMapper
+	url = https://github.com/Zaoqu-Liu/CellProgramMapper
+	branch = main
 [submodule "Connectome"]
 	path = Connectome
 	url = https://github.com/Zaoqu-Liu/Connectome
