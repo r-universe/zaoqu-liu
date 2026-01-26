@@ -49,6 +49,10 @@
 	path = NNLM
 	url = https://github.com/linxihui/NNLM
 	registered = false
+[submodule "NOVA"]
+	path = NOVA
+	url = https://github.com/Zaoqu-Liu/NOVA
+	branch = main
 [submodule "OmnipathR"]
 	path = OmnipathR
 	url = https://github.com/Zaoqu-Liu/OmnipathR
@@ -84,6 +88,10 @@
 [submodule "SpaTalk"]
 	path = SpaTalk
 	url = https://github.com/Zaoqu-Liu/SpaTalk
+	branch = main
+[submodule "TorchDecon"]
+	path = TorchDecon
+	url = https://github.com/Zaoqu-Liu/TorchDecon
 	branch = main
 [submodule "darwin"]
 	path = darwin
@@ -129,6 +137,10 @@
 [submodule "recall"]
 	path = recall
 	url = https://github.com/Zaoqu-Liu/recall
+	branch = main
+[submodule "scClustEval"]
+	path = scClustEval
+	url = https://github.com/Zaoqu-Liu/scClustEval
 	branch = main
 [submodule "scDesign3"]
 	path = scDesign3
