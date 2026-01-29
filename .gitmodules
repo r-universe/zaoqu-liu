@@ -69,6 +69,10 @@
 	path = SCEVAN
 	url = https://github.com/Zaoqu-Liu/SCEVAN
 	branch = main
+[submodule "SCORPION"]
+	path = SCORPION
+	url = https://github.com/Zaoqu-Liu/SCORPION
+	branch = main
 [submodule "STRIDER"]
 	path = STRIDER
 	url = https://github.com/Zaoqu-Liu/STRIDER
