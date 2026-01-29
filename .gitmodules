@@ -45,6 +45,10 @@
 	path = METAFLUX
 	url = https://github.com/Zaoqu-Liu/METAFlux
 	branch = main
+[submodule "MOFSR"]
+	path = MOFSR
+	url = https://github.com/Zaoqu-Liu/MOFSR
+	branch = master
 [submodule "MultiK"]
 	path = MultiK
 	url = https://github.com/Zaoqu-Liu/MultiK
