@@ -9,10 +9,6 @@
 	path = COMMOTR
 	url = https://github.com/Zaoqu-Liu/COMMOTR
 	branch = main
-[submodule "CellChat"]
-	path = CellChat
-	url = https://github.com/sqjin/CellChat
-	registered = false
 [submodule "CellODE"]
 	path = CellODE
 	url = https://github.com/Zaoqu-Liu/CellODE
@@ -53,10 +49,6 @@
 	path = MultiK
 	url = https://github.com/Zaoqu-Liu/MultiK
 	branch = main
-[submodule "NNLM"]
-	path = NNLM
-	url = https://github.com/linxihui/NNLM
-	registered = false
 [submodule "NOVA"]
 	path = NOVA
 	url = https://github.com/Zaoqu-Liu/NOVA
@@ -109,10 +101,6 @@
 	path = darwin
 	url = https://github.com/Zaoqu-Liu/darwin
 	branch = main
-[submodule "decoupleR"]
-	path = decoupleR
-	url = https://github.com/saezlab/decoupleR
-	registered = false
 [submodule "fastCNV"]
 	path = fastCNV
 	url = https://github.com/Zaoqu-Liu/fastCNV
@@ -154,10 +142,6 @@
 	path = scClustEval
 	url = https://github.com/Zaoqu-Liu/scClustEval
 	branch = main
-[submodule "scDesign3"]
-	path = scDesign3
-	url = https://github.com/SONGDONGYUAN1994/scDesign3
-	registered = false
 [submodule "scGate"]
 	path = scGate
 	url = https://github.com/Zaoqu-Liu/scGate
