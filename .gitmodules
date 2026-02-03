@@ -97,6 +97,10 @@
 	path = TorchDecon
 	url = https://github.com/Zaoqu-Liu/TorchDecon
 	branch = main
+[submodule "cellGeometry"]
+	path = cellGeometry
+	url = https://github.com/Zaoqu-Liu/cellGeometry
+	branch = main
 [submodule "darwin"]
 	path = darwin
 	url = https://github.com/Zaoqu-Liu/darwin
@@ -141,6 +145,10 @@
 [submodule "scClustEval"]
 	path = scClustEval
 	url = https://github.com/Zaoqu-Liu/scClustEval
+	branch = main
+[submodule "scFOCAL"]
+	path = scFOCAL
+	url = https://github.com/Zaoqu-Liu/scFOCAL
 	branch = main
 [submodule "scGate"]
 	path = scGate
