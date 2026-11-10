@@ -109,9 +109,6 @@
 	path = fastCNV
 	url = https://github.com/Zaoqu-Liu/fastCNV
 	branch = main
-[submodule "ggforge"]
-	path = ggforge
-	url = https://github.com/Zaoqu-Liu/ggforge
 [submodule "hdWGCNA"]
 	path = hdWGCNA
 	url = https://github.com/Zaoqu-Liu/hdWGCNA
